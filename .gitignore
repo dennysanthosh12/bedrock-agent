@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.agent/sessions/
+.agent/settings.local.json
+*.log
+.env
+.gh-config/

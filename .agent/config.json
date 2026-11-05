@@ -1,0 +1,10 @@
+{
+  "region": "us-east-1",
+  "profile": null,
+  "modelId": "anthropic.claude-haiku-4-5-20251001-v1:0",
+  "permissionMode": "default",
+  "maxTokens": 4096,
+  "maxAgentIterations": 50,
+  "compactionThresholdTokens": 80000,
+  "streaming": true
+}
